@@ -1,0 +1,4 @@
+*.class
+event_record_replay/bin/*
+event_record_replay/gen/*
+event_record_replay/obj/*
